@@ -1,0 +1,30 @@
+
+ #app {
+
+  max-width: 1450px;
+  margin: 0 auto;
+  /* padding: 1rem; */
+  margin-top: 40px;
+  font-weight: normal;
+  /* background-color: rgb(167, 220, 171); */
+  
+}
+
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+}
+
+
+/* @media (min-width: 1024px) {
+  body {
+
+    text-align: center;
+  }
+
+  #app {
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem;
+  }
+} */
